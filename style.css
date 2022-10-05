@@ -1,0 +1,125 @@
+body{
+    background-color: Black;
+    margin: 0, auto;
+}
+
+header{
+    text-align: center;
+}
+
+header img{
+    width: 900px;
+    height: 501px;
+}
+
+section{
+    width:900px;
+    margin: 0 auto;
+}
+
+.section1{
+    margin: 0 auto;
+}
+
+.textbox{
+    display: block;
+}
+
+.titel1{
+    text-align: left;
+    font-family: 'DM Serif Display', serif;
+    padding-top: 60px;
+    line-height: 68px;
+    display: block;
+    -webkit-text-size-adjust: none;
+
+}
+
+.titel2{
+    text-align: left;
+    font-family: 'DM Sans', sans-serif;
+    display: block;
+}
+
+.alinea1{
+    padding-top: 60px;
+    font-family: 'DM Serif Display', serif;
+    padding-right: 160px;
+    line-height: 38px;
+    display:block;
+}
+
+.alinea2{
+    padding-top: 60px;
+    font-family: 'DM Sans', sans-serif;
+    line-height: 25.2px;
+    text-align: left;
+    display:block;
+}
+
+.content{
+    text-align: left;
+    padding-top: 60px;
+    display:block;
+}
+
+.alinea3_{
+    padding-top: 60px;
+    font-family: 'DM Serif Display', serif;
+    line-height: 38px;
+    display:block;
+    text-align: left;
+}
+
+.alinea4_{
+    padding-top: 85px;
+    padding-bottom: 85px;
+    font-family: 'DM Serif Display', serif;
+    line-height: 67.2px;
+    text-align: right;
+    display:block;
+}
+
+.alinea5_{
+    width: 100%;
+    height: 411px;
+    background-color: #D40C00;
+    text-align: center;
+    margin: 0, auto;
+}
+
+h4{
+    margin: 0, auto;
+    width: 900px;
+    height: 511px;
+    background-color: #2F5D29;
+}
+
+.alinea6_{
+    padding-top: 85px;
+    padding-bottom: 85px;
+    font-family: 'DM Serif Display', serif;
+    line-height: 39px;
+    text-align: left;
+    display:block;
+}
+
+.alinea7_{
+    padding-top: 120px;
+    font-family: 'DM Serif Display', serif;
+    line-height: 38px;
+    display:block;
+    text-align: left;
+}
+.alinea8_{
+    width: 260px;
+    height: 61px;
+    background-color: white;
+    text-align: left;
+
+    padding-top: 90px;
+}
+
+.foto1{
+    padding-top: 90px;
+}
